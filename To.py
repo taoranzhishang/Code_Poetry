@@ -6,7 +6,7 @@ Code is poetry
 your_love = None
 my_love = None
 
-while 1:
+while True:
     Boy_said = input("Just say yes or no:")
     Girl_said = input("Just say yes or no:")
 
