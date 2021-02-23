@@ -1,0 +1,3 @@
+while (life < end) {
+  love++;
+}
