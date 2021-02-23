@@ -1,9 +1,7 @@
 /*
-
     #define THE_EXISTENCE_OF_YOU
 
     void tendresse(std::map<int, string> destiny, int weight, int value, string boy, string girl);
-
 */
 
 #ifdef THE_EXISTENCE_OF_YOU
