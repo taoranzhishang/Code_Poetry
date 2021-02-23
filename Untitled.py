@@ -1,6 +1,5 @@
 # Creation
 
-
 def dstBit(mass, rot, vel):
     bMass = mass
     bRot = rot
