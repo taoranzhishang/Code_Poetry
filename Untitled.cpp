@@ -1,5 +1,12 @@
-char iLoveU[11] = "I Love You", char threeLine[999], char aLife[2];  //我爱你
-
-strcpy(threeLine, iLoveU);  //三行太长
-
-strcpy(aLife, iLoveU);      //一生太短
+void outSet(string you,ArrayList heart)
+{while(seeyou == TRUE){heart.add(you);}
+outSet(you, heart;)}
+/*
+当我看到你的时候，
+我站在起点，
+妄图一次次把你装进心里。
+而我回到起点，
+则是为了找回失去的你，
+找到，
+为止。
+*/
