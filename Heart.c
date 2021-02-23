@@ -6,5 +6,5 @@ void main()
 
 		for (float x = -2; x < 2; x += 0.05)
 
-			putchar((x*x + y * y - 1)*(x*x + y * y - 1)*(x*x + y * y - 1) - x * x*y*y*y <= 0 ? '*' : ' ');
+			putchar((x * x + y * y - 1) * (x * x + y * y - 1) * (x * x + y * y - 1) - x * x * y * y * y <= 0 ? '*' : ' ');
 }
