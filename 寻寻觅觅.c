@@ -1,0 +1,1 @@
+Seeking++; Loneliness++; (Misery++)+(Sadness++);
