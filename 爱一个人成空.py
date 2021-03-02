@@ -4,10 +4,10 @@
 
 def like(lover):
      if lover == you:
-            love(lover).forever
+          love(lover).forever
      else:
-            global live
-            live = None
+          global live
+          live = None
 
 
 live = True
