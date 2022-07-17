@@ -16,7 +16,7 @@ class Man:
     def __init__(self, name):
         self.name = name
 
-    def miss_you(self, darling):
+    def miss(self, darling):
         print("{} is missing {}".format(self.name, darling))
 
 
@@ -27,5 +27,5 @@ I = Man("T")
 
 while sunshine_spilling_over_the_sea:
     while hazy_moonlight_spilling_into_the_spring:
-        I.miss_you("L")
+        I.miss("L")
 
